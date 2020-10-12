@@ -22,5 +22,5 @@ npm run server
 # Run client only (:3000)
 npm run client
 ```
-# Lesson from youtube
+## Lesson from youtube
 https://www.youtube.com/watch?v=HRmdj-HpJyE
